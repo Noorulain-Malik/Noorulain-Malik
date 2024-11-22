@@ -25,10 +25,7 @@
    Designed a relational database for appointments and billing management.  
    Created advanced SQL queries for insights and reporting.
 
-## 📊 GitHub Stats
-![Noorulain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=No_Cat_975&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
-- **Portfolio**: [Link to your portfolio](https://your-portfolio.com)  
-- **LinkedIn**: [Noorulain's LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **LinkedIn**: https://www.linkedin.com/in/noorulain-malik/
 - **Email**: noorulaingw@gmail.com
