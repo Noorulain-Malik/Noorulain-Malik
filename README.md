@@ -16,7 +16,7 @@
 1. **[Reddit Sentiment Analysis](https://github.com/Noorulain-Malik/CrowdStrike-Microsoft-Outage-Impact-Analysis.git)**  
    Conducted sentiment analysis on 25,000+ posts and comments.
 
-2. **[Educational Research Dashboard](link-to-repo)**  
+2. **[Korda Institute Research Project](https://github.com/Noorulain-Malik/Korda-Institute-Data-Analytics-Project.git)**  
    Analyzed school survey data, leading to a 15% rise in student engagement.  
    Visualized significant changes using Looker dashboards.  
 
