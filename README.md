@@ -20,11 +20,9 @@
    Analyzed school survey data, leading to a 15% rise in student engagement.  
    Visualized significant changes using Looker dashboards.  
 
-3. **[Daisy's Dog Groomer Database](link-to-repo)**  
-   Designed a relational database for appointments and billing management.  
-   Created advanced SQL queries for insights and reporting.
-
-
+3. **[Power-Bi-Motor-Vehicle-Theft-Analysis](https://github.com/Noorulain-Malik/Power-Bi-Motor-Vehicle-Theft-Analysis.git)**  
+   Designed a Power Bi dashboard to  analyzes a motor vehicle theft dataset using Power BI
+   
 ## 📫 Get in Touch
 - **LinkedIn**: https://www.linkedin.com/in/noorulain-malik/
 - **Email**: noorulaingw@gmail.com
