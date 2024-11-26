@@ -13,9 +13,8 @@
 - **Database Management**: MySQL, PostgreSQL  
 
 ## 💼 Featured Projects
-1. **[Reddit Sentiment Analysis](link-to-repo)**  
-   Conducted sentiment analysis on 25,000+ posts and comments.  
-   Built dashboards comparing sentiment trends to market data.  
+1. **[Reddit Sentiment Analysis](https://github.com/Noorulain-Malik/CrowdStrike-Microsoft-Outage-Impact-Analysis.git)**  
+   Conducted sentiment analysis on 25,000+ posts and comments.
 
 2. **[Educational Research Dashboard](link-to-repo)**  
    Analyzed school survey data, leading to a 15% rise in student engagement.  
