@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Noorulain Malik
+
 
 ### 🚀 Data Analyst | Software Engineer | Dashboard Specialist
 
